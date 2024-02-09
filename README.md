@@ -36,14 +36,14 @@ source ./virtualname/Scripts/activate
 MLflow
 
  - Its Production Grade
- - Trace all of your expriements
+ - Trace all of your experimentS
  - Logging & taging your model
 
 
 DVC 
 
  - Its very lite weight for POC only
- - lite weight expriements tracker
+ - lite weight experimentS tracker
  - It can perform Orchestration (Creating Pipelines)
 
 
